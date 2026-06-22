@@ -22,7 +22,7 @@ A self-evolving AI system that discovers its own optimal system prompt through a
 [![Groq](https://img.shields.io/badge/Groq-API-f55036.svg)](https://console.groq.com/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
-<img src="./assets/harnessloop-demo.gif" alt="HarnessLoop evolution loop: score climbs from 62% to 87% across iterations as the Harness evaluates and the Loop rewrites the prompt" width="800" />
+<img src="./assets/harnessloop-demo.gif" alt="HarnessLoop Playground demo: evolution runs from 62% to 87% across 3 iterations with live score chart, timeline, and target reached" width="800" />
 
 *Define a goal. Watch the system evaluate, analyze failures, rewrite its prompt, and repeat until the target score is reached.*
 
